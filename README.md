@@ -8,3 +8,9 @@
 
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=lespank&theme=gruvbox&hide_border=true&area=true)
+ <br><br><br>
+
+<p align="center">
+ <i><b>Code Time</b></i></p>
+ 
+ [![wakatime](https://wakatime.com/badge/user/3f11a61d-a59e-416b-ac91-72899fad3d66.svg)](https://wakatime.com/@3f11a61d-a59e-416b-ac91-72899fad3d66)
