@@ -9,6 +9,7 @@
 
 <p align="center">
  <i><b>Code Time</b></i></p>
-
- [![wakatime](https://wakatime.com/badge/user/3f11a61d-a59e-416b-ac91-72899fad3d66.svg)](https://wakatime.com/@3f11a61d-a59e-416b-ac91-72899fad3d66)
  
+<p align="center">
+<a href="https://wakatime.com/@3f11a61d-a59e-416b-ac91-72899fad3d66"><img  src="https://wakatime.com/badge/user/3f11a61d-a59e-416b-ac91-72899fad3d66.svg?style=flat-square" alt="Total time coded since Dec 15 2021" /></a>
+ </p>
