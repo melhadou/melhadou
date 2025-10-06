@@ -9,12 +9,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm constantly learning and improving my skills
+- 🔭 I'm currently working on **CodeGuard**
 - 💬 Ask me about **development, coding, and technology**
 - 📫 How to reach me: **check the social links below**
-- ⚡ Fun fact: **I love solving complex problems**
-
 ---
 
 ### 🛠️ Languages and Tools
@@ -42,14 +39,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melhadou&show_icons=true&locale=en&theme=gruvbox" alt="melhadou" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=melhadou&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="melhadou" />
 </p>
@@ -58,18 +47,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=melhadou&theme=gruvbox" alt="melhadou" />
 </p>
 
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://twitter.com/melhadou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="melhadou" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/melhadou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melhadou" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/melhadou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="melhadou" height="30" width="40" /></a>
-  <a href="https://instagram.com/melhadou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melhadou" height="30" width="40" /></a>
-</p>
-
----
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/melhadou">melhadou</a></i>
